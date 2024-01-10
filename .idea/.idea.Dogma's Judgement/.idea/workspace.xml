@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90b8b3c6-6068-45e2-af90-8204dc25e6aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrameLimiter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BloodSplash.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Parallax.cs" />
+        <option value="$PROJECT_DIR$/Assets/CameraScroller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FrameLimiter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BloodSplash.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TextWriter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI_Assistant.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Dialog.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Dialogue System/Dialog.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Dialogue System/DialogManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Dialogue System/NPCController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/SoundManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Dialogue System/NPC_Controller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Dialogue System/DialogueBaseClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Dialogue System/DialogueHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Dialogue System/DialogueLine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FireBallAttack.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FlameHero.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player Characters/FireBallAttack.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyBug.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player Characters/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player Characters/FlameHero.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player Characters/IceHero.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player Characters/ThunderHero.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lJqBcoADOecxxf9P1rNdni1D9p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
